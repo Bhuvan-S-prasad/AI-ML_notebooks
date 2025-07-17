@@ -1,5 +1,19 @@
 # AI-ML Notebooks: My Machine Learning & AI Journey
 
+<!-- Skill Badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?style=for-the-badge&logo=ai&logoColor=white" alt="AI"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-ff69b4?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/RAG-006400?style=for-the-badge&logo=readthedocs&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LangChain-0052cc?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+</p>
+
+
 Welcome to my collection of practice notebooks and micro-projects, documenting my learning journey in Machine Learning, Neural Networks, Generative AI, and Retrieval-Augmented Generation (RAG). This repository is a set of my hands-on explorations, experiments, and mini-projects, each focused on a key concept or technique in modern data science and AI.
 
 ## Repository Structure
@@ -79,7 +93,10 @@ Practice_notebooks/
 - **End-to-End ML Pipelines**: Data preprocessing, feature engineering, model evaluation
 
 ## About This Repository
+
 This repository is a reflection of my personal growth and curiosity in the field of AI and ML. Each notebook represents a step in my journey, from foundational concepts to advanced topics. I hope these resources are helpful to others embarking on a similar path.
+
+
 ---
 
 **Contact:** Bhuvan_S  
