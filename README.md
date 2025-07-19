@@ -69,6 +69,8 @@ Practice_notebooks/
 - **ANN_from_scratch.ipynb**: Building an Artificial Neural Network from scratch showcasing how forward and backpropogation works.
 - **ANN-basics.ipynb**: Artificial neural networks using TensorFlow/Keras.
 - **CNN_MNIST.ipynb**: Convolutional Neural Network for MNIST digit classification, including data augmentation.
+- **RNN_LSTM.ipynb**: comparision of traditional RNN and LSTM model with amazon fine food review dataset
+
 
 ### 10_generative_AI
 - **LangChain.ipynb**: Experiments with generative AI frameworks such as LangChain.
