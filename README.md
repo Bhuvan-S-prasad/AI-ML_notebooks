@@ -34,7 +34,8 @@ Practice_notebooks/
 ├── 09_Neural_networks/                # Neural Networks (ANN, CNN)
 ├── 10_generative_AI/                  # Generative AI (e.g., LangChain)
 ├── 11_RAG/                            # Retrieval-Augmented Generation
-└── 12_micro_projects/                 # Micro Projects (various topics)
+├── 12_micro_projects/                 # Micro Projects (various topics)
+└── 13-LLMs                            # LLMs and finetuning
 ```
 
 ## Folder & Project Summaries
@@ -84,6 +85,9 @@ Practice_notebooks/
 - **RAG_hospital.ipynb**: Retrieval-Augmented Generation for hospital data, combining retrieval and generation for QA tasks.
 - **walmart_timeseries.ipynb**: orecasting Walmart sales using time series models..
 - **Netflix-Recommendation.ipynb**: Recommendation Engine Trained on Netflix data using Singular Value Decomposition(SVD).
+
+### 13-LLMs
+- **finetuning**: folder which contains finetuning process of LLM using "Low-Rank Adaptation" (LoRA) 
 
 ## Key Topics Covered
 - **Exploratory Data Analysis (EDA)**
